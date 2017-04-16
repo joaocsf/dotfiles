@@ -5,5 +5,7 @@ Just extract to ~ directory.
 Open Vim and Type :PluginInstall.
 You Must Change The Directory inside .bashrc (Last Line)
 
+Don't Forget to Reload The Bash With: powerline-daemon --replace 
+
 Enjoy
 
