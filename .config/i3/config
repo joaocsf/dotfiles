@@ -181,9 +181,6 @@ bar {
 
 #Meu:
 
-#LemonBar
-
-exec python /home/joao/.local/lib/python2.7/site-packages/powerline/bindings/lemonbar/powerline-lemonbar.py –height 16 – -f “Source Code Pro for Powerline-9” --i3
 
 assign [class="Firefox"] $workspace4
 assign [class="discord"] $workspace5
